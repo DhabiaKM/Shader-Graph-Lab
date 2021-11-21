@@ -104,6 +104,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _GlowAmount: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -117,7 +118,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_8bad374a73554891ab50c769960a2604: {r: 0, g: 0, b: 0, a: 0}
+    - Color_8bad374a73554891ab50c769960a2604: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 0}
     - Color_b710542408f04d8e894ee38a4df338b7: {r: 2.9960785, g: 1.7882353, b: 1.4745098, a: 0.25490198}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
